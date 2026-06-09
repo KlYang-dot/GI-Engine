@@ -5,11 +5,9 @@
 <a id="中文版本"></a>
 
 # GI Engine Project
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![GitHub release](https://img.shields.io/github/v/release/KlYang-dot/GI-Engine)](https://github.com/KlYang-dot/GI-Engine/releases)
-
-[English Version](README_EN.md)
+[![GitHub release](https://img.shields.io/github/v/release/KlYang-dot/GI-Engine?logo=github)](https://github.com/KlYang-dot/GI-Engine/releases)
+[![Stars](https://img.shields.io/github/stars/KlYang-dot/GI-Engine?style=flat-square&logo=github)](https://github.com/KlYang-dot/GI-Engine/stargazers)
+[![License](https://img.shields.io/github/license/KlYang-dot/GI-Engine?style=flat-square)](LICENSE.md)
 
 > **GI Engine：不仅仅是桌面宠物。**
 > 一款面向中文用户的轻量级桌面虚拟伙伴引擎，支持 VRM 角色、模型商店、原神模型优化渲染及丰富扩展功能。
