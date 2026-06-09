@@ -1,0 +1,1326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Languages (UI)_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 698e167bd107c3a40a5376082f2e2f35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 96968105984
+    m_Localized: GI Engine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11321839968256
+    m_Localized: Bones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11796140253184
+    m_Localized: FPS Limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245612687360
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11320741060608
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11321303097344
+    m_Localized: Polys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245205839872
+    m_Localized: Avatar Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11244643803136
+    m_Localized: Head Follows Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11243918188544
+    m_Localized: Avatar Can Dance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11241108004864
+    m_Localized: Avatar Always In Front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11239019241472
+    m_Localized: Start Dancing Vol. Threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11236599128064
+    m_Localized: Animation Transition Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11105833312256
+    m_Localized: Animation Change Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23418267230208
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23684911718400
+    m_Localized: Pet Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24123241652224
+    m_Localized: Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24123816271872
+    m_Localized: Menu Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24124437028864
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24125049397248
+    m_Localized: Ultra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24125577879552
+    m_Localized: Very High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24126186053632
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24126735507456
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24509532856320
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24510153613312
+    m_Localized: Steam DLCs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24510665318400
+    m_Localized: Flower Halo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27326909767680
+    m_Localized: Add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27328117727232
+    m_Localized: Remove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37370367827968
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494319580045312
+    m_Localized: Experimental
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494291876667392
+    m_Localized: Load Mod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494394716807168
+    m_Localized: Window and Taskbar Sitting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494416451690496
+    m_Localized: This feature may cause bans in games with anti-cheat software.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971210921435136
+    m_Localized: Discord Rich Presence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971386927013888
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971392559964160
+    m_Localized: "\u65E5\u672C\u8A9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971393197498368
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971466828505088
+    m_Localized: "\u4E2D\u6587"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1971391947595776
+    m_Localized: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982288996851712
+    m_Localized: "\uD55C\uAD6D\uC5B4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2011903232565248
+    m_Localized: "Welcome to \u30E1\u30A4\u30C8\u30A8\u30F3\u30B8\u30F3 (MateEngine)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012023386791936
+    m_Localized: "This is a work-in-progress app, and new features may be added over
+      time. It was made by the anime community, for the anime community. There might
+      be some small issues here and there \u2014 if you find any, you can report
+      them from the Options menu by right-clicking the pet and clicking the bug icon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012176361447424
+    m_Localized: How to Use MateEngine (Speedrun)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012219415977984
+    m_Localized: "Using MateEngine is really easy! Just right-click to open the Options
+      menu. There, you can change the avatar size, enable or disable effects, whitelist
+      apps that can make your avatar dance, or load mods and custom VRM/ME model
+      files. In the next step, I\u2019ll explain how to load custom avatars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012314333077504
+    m_Localized: Using Custom Models 1/2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012317843709952
+    m_Localized: To use your own custom model, you need a .VRM file. You can download
+      custom .VRM models from websites like Booth.jp and VRoidHub. Once you have
+      a .VRM file, open the Options menu and click the 'VRM' button. This will open
+      the file explorer, where you can select your VRM file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012431912001536
+    m_Localized: Using Custom Models 2/2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012464099090432
+    m_Localized: "Sometimes a .VRM file might fail to load. This usually isn\u2019t
+      a MateEngine issue, it\u2019s often due to incorrect shaders or armature setup
+      during export. If this happens, check the official UniVRM documentation. Some
+      apps use fallback methods to fix broken models, but MateEngine doesn't (and
+      won\u2019t). You're responsible for making sure your VRM is properly exported."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2024320264036352
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2024395421769728
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2024529517862912
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2024532080582656
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2024289331044352
+    m_Localized: "Language - \u8A00\u8A9E (Gengo) - \u042F\u0437\u044B\u043A (Yazyk)
+      - Idioma - \u8A9E\u8A00 (Y\u01D4y\xE1n) - Sprache - Langue - \uC5B8\uC5B4 (Eoneo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781941810028544
+    m_Localized: Models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781828886781952
+    m_Localized: Head Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781852853035008
+    m_Localized: Spine Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781877666537472
+    m_Localized: Hand Tracking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781899598553088
+    m_Localized: Menu Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781916468043776
+    m_Localized: Menu Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7781977230925824
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9722136935522304
+    m_Localized: PNG file must be under 700 KB.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9724442586374144
+    m_Localized: FIX IMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9725012508401664
+    m_Localized: UPLOAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9844627515367424
+    m_Localized: Eye Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11144201018269696
+    m_Localized: Inverse Kinematics Feet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11144228465795072
+    m_Localized: Most models will look better with IK Feet enabled. If not, disable
+      it for a more feminine movement style.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11147404514418688
+    m_Localized: Ambient Occlusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13999268343832576
+    m_Localized: Screen Saver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13999269778284544
+    m_Localized: After some time, the desktop mascot appears large on the screen
+      and plays an idle animation until you return and click.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14037793143513088
+    m_Localized: Screen Saver Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14037795504906240
+    m_Localized: Debugging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14037796842889216
+    m_Localized: GC KILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14037800621957120
+    m_Localized: "Runs a forced garbage collection task. This is a debug function\u2014do
+      not use it unless you know what you're doing."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21396842692468736
+    m_Localized: Enable Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21396846479925248
+    m_Localized: "EXPERIMENTAL FEATURE: \nTHE ALARM WILL TURN OFF ONCE IT WAS TRIGGERED
+      ONE TIME."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397663471624192
+    m_Localized: Ambient Lights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397935245746176
+    m_Localized: AMBI 1 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397937758134272
+    m_Localized: AMBI 2 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397939494576128
+    m_Localized: AMBI 3 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397936617283584
+    m_Localized: AMBI 1 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397938295005184
+    m_Localized: AMBI 2 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21398132755521536
+    m_Localized: AMBI 3 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397937200291840
+    m_Localized: AMBI 1 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21397938898984960
+    m_Localized: AMBI 2 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21398134148030464
+    m_Localized: AMBI 3 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21399717254520832
+    m_Localized: Enable Ambient Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21399718462480384
+    m_Localized: Enable Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400106955694080
+    m_Localized: Global Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400294541746176
+    m_Localized: Light Intensity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400296517263360
+    m_Localized: Light Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400297775554560
+    m_Localized: Light Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63722729174507520
+    m_Localized: Update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64079105226743808
+    m_Localized: "Kyaa~ put me down\u2026!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086005318197248
+    m_Localized: "Don\u2019t lift me up like that, it\u2019s embarrassing~!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086006849118208
+    m_Localized: "Please\u2026 set me gently back on the floor~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086008195489792
+    m_Localized: "Kyaa! It\u2019s too high! Hey, let me down!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086009676079104
+    m_Localized: ahhhhhhh..!!! >_<
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086226806808576
+    m_Localized: "This isn\u2019t a princess carry~! Let me down~!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086278308667392
+    m_Localized: Let me down!! >_<!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086678092947456
+    m_Localized: Hehe, look at me spin~ am I cute?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086768543113216
+    m_Localized: Eee~ watch my moves, master~!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087092846698496
+    m_Localized: "Kyaa, I can\u2019t stop moving~ so fun!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087094838992896
+    m_Localized: "Ufufu~ I\u2019m your idol on stage now?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087097229746176
+    m_Localized: "Dance battle?! I\u2019ll never lose~!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087099624693760
+    m_Localized: Dance Dance Dance!! >_<
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087382320783360
+    m_Localized: Relaxing time~ finally a break!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087412918231040
+    m_Localized: "Hehe, I\u2019ll just sit here and watch you work."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087414772113408
+    m_Localized: "Mmm\u2026 comfy spot, don\u2019t mind me~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087416336588800
+    m_Localized: "I\u2019ll cheer for you while you\u2019re busy, master~!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087417628434432
+    m_Localized: "Nyaa~ I\u2019ll stay here quietly, promise~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087418794450944
+    m_Localized: "Working hard? I\u2019ll keep you company~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088019687219200
+    m_Localized: "Shhh\u2026 don\u2019t disturb me, I\u2019m recharging cuteness~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088020911955968
+    m_Localized: Every pet deserves a macaron nap spot, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088021570461696
+    m_Localized: "Ehehe~ my pillow smells like sugar\u2026 so dreamy~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088022228967424
+    m_Localized: "So soft\u2026 I\u2019m melting into it~"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088022841335808
+    m_Localized: Sweet dreams on a sweet pillow, ehehe~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088023474675712
+    m_Localized: "Mmm\u2026 this macaron is so fluffy~ I could nap forever\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485837908254720
+    m_Localized: Sakura Halo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485839854411776
+    m_Localized: Retro Halo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485841104314368
+    m_Localized: Event Based Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486049066295296
+    m_Localized: Enable Dance transitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486115202080768
+    m_Localized: Dance Change Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486115827032064
+    m_Localized: Dance transition Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486267505647616
+    m_Localized: Start With System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486353119780864
+    m_Localized: AI System Prompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486586960617472
+    m_Localized: Del. CHAT HISTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973429180833792
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973430707560448
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973432238481408
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973433303834624
+    m_Localized: Appearance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973434356604928
+    m_Localized: Dancing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973435300323328
+    m_Localized: Window Feature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973436151767040
+    m_Localized: Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973438601240576
+    m_Localized: Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973439893086208
+    m_Localized: AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973441449172992
+    m_Localized: Debug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973443252723712
+    m_Localized: Steam DLCs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70999952109641728
+    m_Localized: Displays in Discord that you are currently using GI Engine in Game
+      Activity on your Profile. It shows what your pet is doing, such as playing
+      music, idling, sitting, and more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71002484403904512
+    m_Localized: "The delay before the next idle animation starts. It\u2019s recommended
+      to keep it around 50% for smooth and natural transitions."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71003365492957184
+    m_Localized: Determines how long the transition between animation A and animation
+      B takes. Keep this value low for smooth transitions between idle animations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71004038695526400
+    m_Localized: "Body tracking allows the avatar to follow mouse movement using
+      its head, spine, and eyes. You can adjust how much each part moves with the
+      sliders below. When the slider is all the way left, it doesn\u2019t move; when
+      it\u2019s all the way right, it moves at maximum. Keeping it near the middle
+      provides a smooth experience."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71004940831596544
+    m_Localized: "Hand tracking lets you move the avatar\u2019s hands with your mouse.
+      The avatar\u2019s hand will follow your mouse position, making it look as if
+      it\u2019s trying to catch or hold your mouse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71005229898833920
+    m_Localized: Husbando Mode makes your avatar behave more masculine, similar to
+      a male character. It changes idle and dance animations to match the style.
+      This feature is experimental and does not affect sitting animations. It also
+      disables headpats.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71009590645399552
+    m_Localized: "Enabling this allows the avatar to dance to your music. To make
+      it work, click the settings icon next to this option and add the apps that
+      can control the avatar\u2019s dancing. Some apps require music to be playing
+      first; while it plays, click the refresh icon so GI Engine can detect the app."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71010482257960960
+    m_Localized: Enabling dance transitions allows the avatar to switch between dance
+      styles over time. Use the slider below to control how quickly it changes. Lower
+      values make it switch faster, while higher values make it take longer to change
+      dance styles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71011000183201792
+    m_Localized: "The dance threshold determines when the avatar starts dancing based
+      on volume. If set too low, the avatar will dance as soon as the music starts.
+      If set to maximum, it will only dance when the music is very loud. It\u2019s
+      recommended to keep this at the default or a low value."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682236403712
+    m_Localized: Load Mod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682257375232
+    m_Localized: Experimental
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682257375233
+    m_Localized: Window and Taskbar Sitting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569536
+    m_Localized: This feature may cause bans in games with anti-cheat software.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569537
+    m_Localized: Discord Rich Presence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569538
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569542
+    m_Localized: "\u4E2D\u6587"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569544
+    m_Localized: "Welcome to \u30E1\u30A4\u30C8\u30A8\u30F3\u30B8\u30F3 (GIEngine)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569545
+    m_Localized: This is an application still under development, built on the open-source
+      Mate Engine, with appropriate optimizations for Genshin Impact models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569546
+    m_Localized: How to Use GIEngine (Speedrun)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569547
+    m_Localized: "Using GIEngine is really easy! Just right-click to open the Options
+      menu. There, you can change the avatar size, enable or disable effects, whitelist
+      apps that can make your avatar dance, or load mods and custom VRM/ME model
+      files. In the next step, I\u2019ll explain how to load custom avatars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569548
+    m_Localized: Using Custom Models 1/2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569549
+    m_Localized: To use your own custom model, you need a .VRM file. You can download
+      custom .VRM models from websites like Booth.jp and VRoidHub. Once you have
+      a .VRM file, open the Options menu and click the 'VRM' button. This will open
+      the file explorer, where you can select your VRM file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569550
+    m_Localized: Using Custom Models 2/2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569551
+    m_Localized: "Sometimes a .VRM file might fail to load. This usually isn\u2019t
+      a GIEngine issue, it\u2019s often due to incorrect shaders or armature setup
+      during export. If this happens, check the official UniVRM documentation. Some
+      apps use fallback methods to fix broken models, but GI Engine doesn't (and
+      won\u2019t). You're responsible for making sure your VRM is properly exported."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569552
+    m_Localized: "\u9009\u62E9\u60A8\u7684\u8BED\u8A00 / Select Your Language"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569553
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569554
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569555
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569556
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569557
+    m_Localized: Head Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569558
+    m_Localized: Spine Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569559
+    m_Localized: Hand Tracking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569560
+    m_Localized: Menu Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569561
+    m_Localized: Menu Saturation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569562
+    m_Localized: Models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569563
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569564
+    m_Localized: PNG file must be under 700 KB.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569565
+    m_Localized: FIX IMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569566
+    m_Localized: UPLOAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569567
+    m_Localized: Eye Blend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569568
+    m_Localized: Inverse Kinematics Feet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569569
+    m_Localized: Most models will look better with IK Feet enabled. If not, disable
+      it for a more feminine movement style.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569570
+    m_Localized: Ambient Occlusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569571
+    m_Localized: Screen Saver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569572
+    m_Localized: After some time, the desktop mascot appears large on the screen
+      and plays an idle animation until you return and click.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569573
+    m_Localized: Screen Saver Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569574
+    m_Localized: Debugging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569575
+    m_Localized: GC KILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569576
+    m_Localized: "Runs a forced garbage collection task. This is a debug function\u2014do
+      not use it unless you know what you're doing."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569577
+    m_Localized: Enable Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569578
+    m_Localized: "EXPERIMENTAL FEATURE: \r\nTHE ALARM WILL TURN OFF ONCE IT WAS TRIGGERED
+      ONE TIME."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763840
+    m_Localized: Ambient Lights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763841
+    m_Localized: AMBI 1 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763842
+    m_Localized: AMBI 1 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763843
+    m_Localized: AMBI 1 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763844
+    m_Localized: AMBI 2 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763845
+    m_Localized: AMBI 2 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763846
+    m_Localized: AMBI 2 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763847
+    m_Localized: AMBI 3 INTENSITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763848
+    m_Localized: AMBI 3 SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763849
+    m_Localized: AMBI 3 COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763850
+    m_Localized: Enable Ambient Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470095960940544
+    m_Localized: "Monday \u2013 pressing this button will activate the alarm on every
+      Monday. You can select additional days or keep it set to only Monday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470097592524800
+    m_Localized: "Tuesday \u2013 pressing this button will activate the alarm on
+      every Tuesday. You can select additional days or keep it set to only Tuesday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470098959867904
+    m_Localized: "Wednesday \u2013 pressing this button will activate the alarm on
+      every Wednesday. You can select additional days or keep it set to only Wednesday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470100155244544
+    m_Localized: "Thursday \u2013 pressing this button will activate the alarm on
+      every Thursday. You can select additional days or keep it set to only Thursday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470101493227520
+    m_Localized: "Friday \u2013 pressing this button will activate the alarm on every
+      Friday. You can select additional days or keep it set to only Friday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470107461722112
+    m_Localized: "Saturday \u2013 pressing this button will activate the alarm on
+      every Saturday. You can select additional days or keep it set to only Saturday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470109877641216
+    m_Localized: "Sunday \u2013 pressing this button will activate the alarm on every
+      Sunday. You can select additional days or keep it set to only Sunday."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470682064592896
+    m_Localized: This is the alarm feature. On the left, you can set the hour (displayed
+      in both AM/PM and 24-hour format). On the right, you can set the minutes. You
+      can also select the days when the alarm should ring. If no days are selected,
+      the alarm will ring every day at the set time. To have it ring only on specific
+      days, select the desired days.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751708213026816
+    m_Localized: Add New Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751796721229824
+    m_Localized: Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751947594539008
+    m_Localized: MON.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751949909794816
+    m_Localized: TUE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751951579127808
+    m_Localized: WED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751953068105728
+    m_Localized: THU.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751954464808960
+    m_Localized: FRI.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751955819569152
+    m_Localized: SAT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751956985585664
+    m_Localized: SUN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752554812317696
+    m_Localized: Windows Sitting Y Offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752669165821952
+    m_Localized: ERROR!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752800506257408
+    m_Localized: MEM. Optimizations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74066854415474688
+    m_Localized: "Oh no\u2026 there\u2019s a <Entity> right next to you! Stay safe!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100562044428288
+    m_Localized: Oh, look! What a wonderful day!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100573499072512
+    m_Localized: "Oh, it\u2019s getting dark! Stay safe, o-okay?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100702608138240
+    m_Localized: Oh no! Please stay safe, your health is low!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100749752115200
+    m_Localized: "Cutie, don\u2019t forget to eat! You look so hungry >_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74137876288282624
+    m_Localized: 'This enables cross-interaction between GI Engine and Minecraft.
+      When activated, it shows cute messages during key moments: when day or night
+      begins, when a dangerous mob is nearby, when your health or hunger is low,
+      when you craft something, die, the weather changes, or you go to sleep. To
+      use this feature, install the Minecraft mod for Forge. Currently supported
+      version: Minecraft 1.21.10. You can download the mod using the CurseForge launcher
+      or by clicking the Download button.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149153014325248
+    m_Localized: "Oh no... you died! It\u2019s okay, everything will be alright."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149154457165824
+    m_Localized: "Look, it\u2019s raining! Whoa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149155774177280
+    m_Localized: "Hey, you\u2019re drowning! Get some air, please!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149157028274176
+    m_Localized: Sleepy time! Time for bed. Good night <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149158324314112
+    m_Localized: Whoa, what did you just craft here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74429045333336064
+    m_Localized: Sync Mode enables dance synchronization across all GI Engine instances.
+      When activated, all avatars on your monitor will perform the same dance in
+      perfect sync. Make sure to launch the other instances from the main instance,
+      otherwise synchronization will not work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74429046658736128
+    m_Localized: "Lock Mode (Experimental) adds camera tracking to dances. Some dance
+      files include large left or right movements that can move the avatar outside
+      the visible play space. Enabling Lock Mode makes the engine window follow the
+      avatar\u2019s motion, preventing it from moving out of bounds."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473517958078464
+    m_Localized: Yay!! Some food! Yummy!! ^-^
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473519275089920
+    m_Localized: Woah!! What a fight!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473520520798208
+    m_Localized: Mmh.. I think this is... oh right! This is a <biome>!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494164503404544
+    m_Localized: Mhh! Yummyy!! I hope it tasted good! <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494166046908416
+    m_Localized: I love food!! Give me some too!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494167372308480
+    m_Localized: I can imagine! It was tasty, right? <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494450139701248
+    m_Localized: Woah! We are now in <biome>! Amazing! <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494451326689280
+    m_Localized: Weee! <biome> is such a cool place, right? :D <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494452492705792
+    m_Localized: "I-I know this place! It\u2019s <biome>, right??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495033496084480
+    m_Localized: "Ohh!.. You\u2019re so good!! I\u2019m glad you\u2019re so strong!
+      <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495035303829504
+    m_Localized: Whoops! Looks like something died here! ^-^
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495036486623232
+    m_Localized: "Amazing! You\u2019re so good at Minecraft!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495491606355968
+    m_Localized: Ohh.. What are you crafting?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495493175025664
+    m_Localized: Ohh.. What are you crafting?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495494441705472
+    m_Localized: 'What are we crafting here..? o:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496053102026752
+    m_Localized: Oh.. Sometimes I really love the rain, you know? It can be so calming!
+      <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496054406455296
+    m_Localized: "It\u2019s raining, it\u2019s raining, it\u2019s raining!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496454551445504
+    m_Localized: "Ohh! Take care, there\u2019s a <entity>!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496467176300544
+    m_Localized: <entity> right next to you! T-take care!! <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496470120701952
+    m_Localized: "Mhh.. I think there\u2019s a <entity>! Stay safe!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496470980534272
+    m_Localized: <entity>!! Oh no!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497067465089024
+    m_Localized: "Ohh, I\u2019m very eepy too!! Let\u2019s have a power nap and cuddle
+      up!! <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497074909978624
+    m_Localized: "Good night! Tomorrow will be a big day for you, okay? Promise me
+      you\u2019ll sleep! ^-^"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497077372035072
+    m_Localized: Nighty night! Sleep well!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497599856484352
+    m_Localized: "Ohhh no...!! >_< I-It\u2019s okay! You\u2019re not playing on hardcore
+      mode, r-right?? Y-You can just respawn..! Right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497601844584448
+    m_Localized: "Okay, don\u2019t worry! Time to respawn and get that loot back!
+      <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497603958513664
+    m_Localized: If you die, I die too!! >_< <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498198488522752
+    m_Localized: Mhhh.. What are our plans today? We could visit some new biomes
+      and go on a journey! Or maybe build something!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498199964917760
+    m_Localized: I love Minecraft so much! <3 Watching you play is so fun! Yippee!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498200799584256
+    m_Localized: "We should definitely get a cute dog!! Let\u2019s tame one! <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499007469101056
+    m_Localized: "Take care! You have low health\u2026 eat something!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499008760946688
+    m_Localized: "Oh no.. please d-don\u2019t die </3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499009935351808
+    m_Localized: "It\u2019s all good! We can survive, don\u2019t worry! We need food
+      or, ehh, heal potions! Or a golden apple!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499492481638400
+    m_Localized: What do you like more? The night or the day? I love the night the
+      most! Wonderful stars! But I hate all the mobs at night >_< <33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499493685403648
+    m_Localized: Is it getting dark?? We should be careful!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499494822060032
+    m_Localized: La di da di duu! Laa laa laa li louuu! <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500969312854016
+    m_Localized: "Don\u2019t stare at endermen! They\u2019re shy but super scary
+      when mad!! >_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500970667614208
+    m_Localized: "Never dig straight down! Or you\u2019ll fall like \u201Cweeee\u2014AAAH!!\u201D
+      into lava! >_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500972060123136
+    m_Localized: Always bring extra tools! You never know when your pickaxe goes
+      crack! and breaks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500973540712448
+    m_Localized: Keep some food with you, okay? No hungry adventures allowed! Nom
+      nom <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501548428795904
+    m_Localized: "Mhh.. your tummy\u2019s rumbling again, isn\u2019t it? Hehe~ time
+      for nom noms! <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501549779361792
+    m_Localized: "Oi oi!! Eat something before you faint! We can\u2019t fight on
+      an empty stomach >_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501550978932736
+    m_Localized: "Eeeh~ you\u2019re hungry again!? Let\u2019s grab something tasty,
+      pleaaase! ^-^"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501552463716352
+    m_Localized: Huh!? Your hunger bar is low!! Quick, food time! Munch munch <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780049190985728
+    m_Localized: BUY $4,99
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780306805137408
+    m_Localized: Minecraft Integration is a Steam-only feature. It allows the avatar
+      to speak during specific events, such as discovering new biomes or when a monster
+      appears behind you. She reacts to your gameplay and comments on what you do.
+      Support GI Engine on Steam to unlock this feature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780051929866240
+    m_Localized: 'The Steam version includes four accessories: Flower Halo, Sakura
+      Halo, Retro Halo, and Error Face Mask. It also adds one feature, event based
+      messages that let the avatar talk while dragging, dancing, sitting, relaxing,
+      and more.
+
+
+
+      GI Engine costs around 4.99 USD. If you cannot afford it,
+      the essential features stay free forever. If you can, consider supporting me
+      for future updates. Thank you!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780051216834560
+    m_Localized: Minecraft Integration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533177715499008
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533281222533120
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533283390988288
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533389917921280
+    m_Localized: "This is the timer function. You can set a timer for up to 24 hours
+      and 59 minutes. You can also enter custom text to label your timer, so you
+      know what it\u2019s for. For example, set it to 15 minutes and add a note to
+      remind yourself when your pizza is ready. After the timer ends, you can reuse
+      it anytime."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78900503145127936
+    m_Localized: Start With Random Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942061286432768
+    m_Localized: Enabling the Minecraft Integration feature allows the avatar to
+      react to your gameplay through events such as kills, sleeping, day and night
+      cycles, deaths, biome discoveries, mob detections, weather changes, low health,
+      and more. Make sure you have the mod installed to use this feature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942197488066560
+    m_Localized: Minecraft Integration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942349086990336
+    m_Localized: Minecraft Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942769763098624
+    m_Localized: Minecraft Integration is a Steam-only feature. It allows the avatar
+      to speak during specific events, such as discovering new biomes or when a monster
+      appears behind you. She reacts to your gameplay and comments on what you do.
+      Support GI Engine on Steam to unlock this feature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942879666446336
+    m_Localized: Buy GI Engine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943100634963968
+    m_Localized: Food System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943336845582336
+    m_Localized: "The Food System is an Early Access feature available only to Steam
+      users. It lets you spawn smoothies and other food items. Hold a smoothie with
+      your mouse and bring it to the avatar\u2019s head so she can drink it. Support
+      the developer to gain access to this feature."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943700919558144
+    m_Localized: Add Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154219043484319744
+    m_Localized: "The Food System lets you press the middle mouse button on the avatar
+      to open the new food circle menu. You can spawn a smoothie and bring it to
+      the avatar\u2019s head to make her drink with sound effects. The feature is
+      currently in Early Access, and more food items, including a small hunger system,
+      will be added in future updates."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154319530762186752
+    m_Localized: Model Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154644154179895296
+    m_Localized: Download
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

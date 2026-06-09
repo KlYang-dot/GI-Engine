@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.assetgit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+*.dllgit filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+/Assets/MATE[[:space:]]ENGINE[[:space:]]-[[:space:]]Fonts/Asia[[:space:]]Fonts/hk4e_zh-cn[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/StreamingAssets/undreamai-v1.2.5-llamacpp/windows-cuda-cu12.2.0/undreamai_windows-cuda-cu12.2.0.dll filter=lfs diff=lfs merge=lfs -text

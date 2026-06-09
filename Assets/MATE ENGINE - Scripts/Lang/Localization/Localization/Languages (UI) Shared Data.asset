@@ -1,0 +1,982 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Languages (UI) Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Languages (UI)
+  m_TableCollectionNameGuidString: 698e167bd107c3a40a5376082f2e2f35
+  m_Entries:
+  - m_Id: 96968105984
+    m_Key: TITLE_APP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11105833312256
+    m_Key: ANIMATION_CHANGE_TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11236599128064
+    m_Key: ANIMATION_TRANSITION_TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11239019241472
+    m_Key: DANCE_VOLUME_THRESHOLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11241108004864
+    m_Key: AVATAR_ALWAYS_IN_FRONT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11243918188544
+    m_Key: AVATAR_CAN_DANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11244643803136
+    m_Key: HEAD_FOLLOWS_MOUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245205839872
+    m_Key: AVATAR_SIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245612687360
+    m_Key: SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11320741060608
+    m_Key: RESET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11321303097344
+    m_Key: POLY_COUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11321839968256
+    m_Key: BONE_COUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11796140253184
+    m_Key: FPS_LIMIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23418267230208
+    m_Key: SETTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23684911718400
+    m_Key: PET_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24123241652224
+    m_Key: EFFECTS_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24123816271872
+    m_Key: MENU_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24124437028864
+    m_Key: GRAPHICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24125049397248
+    m_Key: ULTRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24125577879552
+    m_Key: VERY_HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24126186053632
+    m_Key: HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24126735507456
+    m_Key: NORMAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24509532856320
+    m_Key: LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24510153613312
+    m_Key: STEAM_DLCS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24510665318400
+    m_Key: FLOWER_HALO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27326909767680
+    m_Key: ADD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27328117727232
+    m_Key: REMOVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37370367827968
+    m_Key: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682236403712
+    m_Key: LOAD_MOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682257375232
+    m_Key: EXPERIMENTAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682257375233
+    m_Key: WINDOW_SITTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569536
+    m_Key: WINDOW_SITTING_WARN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569537
+    m_Key: DISCORD_RPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569538
+    m_Key: LANG_ENG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569542
+    m_Key: LANG_CH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569544
+    m_Key: TUT_INTRO_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569545
+    m_Key: TUT_INTRO_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569546
+    m_Key: TUT_HOW_TO_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569547
+    m_Key: TUT_HOW_TO_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569548
+    m_Key: TUT_VRM_01_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569549
+    m_Key: TUT_VRM_01_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569550
+    m_Key: TUT_VRM_02_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569551
+    m_Key: TUT_VRM_02_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569552
+    m_Key: LANGUAGE_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569553
+    m_Key: SKIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569554
+    m_Key: FINISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569555
+    m_Key: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569556
+    m_Key: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569557
+    m_Key: HEAD_BLEND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569558
+    m_Key: SPINE_BLEND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569559
+    m_Key: HAND_TRACKING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569560
+    m_Key: MENU_COLOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569561
+    m_Key: MENU_SATURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569562
+    m_Key: MODELS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569563
+    m_Key: LOAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569564
+    m_Key: PNG_TOO_BIG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569565
+    m_Key: PNG_MISSING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569566
+    m_Key: UPLOAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569567
+    m_Key: EYE_BLEND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569568
+    m_Key: IK_FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569569
+    m_Key: IK_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569570
+    m_Key: AO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569571
+    m_Key: SCREEN_SAVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569572
+    m_Key: SCREEN_SAVER_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569573
+    m_Key: SCREEN_SAVER_SLIDER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569574
+    m_Key: DEBUGGING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569575
+    m_Key: GC_KILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569576
+    m_Key: GC_KILL_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569577
+    m_Key: ENABLE_ALARM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682261569578
+    m_Key: ALARM_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763840
+    m_Key: AMBIENT_LIGHTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763841
+    m_Key: AMBI_1_INT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763842
+    m_Key: AMBI_1_SAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763843
+    m_Key: AMBI_1_COL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763844
+    m_Key: AMBI_2_INT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763845
+    m_Key: AMBI_2_SAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763846
+    m_Key: AMBI_2_COL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763847
+    m_Key: AMBI_3_INT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763848
+    m_Key: AMBI_3_SAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763849
+    m_Key: AMBI_3_COL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71028682265763850
+    m_Key: ENABLE_AMBIENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21399718462480384
+    m_Key: ENABLE_LIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400106955694080
+    m_Key: GLOBAL_LIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400294541746176
+    m_Key: LIGHT_INT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400296517263360
+    m_Key: LIGHT_SAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21400297775554560
+    m_Key: LIGHT_COL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63722729174507520
+    m_Key: UPDATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64079105226743808
+    m_Key: ACTION_DRAG_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086005318197248
+    m_Key: ACTION_DRAG_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086006849118208
+    m_Key: ACTION_DRAG_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086008195489792
+    m_Key: ACTION_DRAG_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086009676079104
+    m_Key: ACTION_DRAG_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086226806808576
+    m_Key: ACTION_DRAG_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086278308667392
+    m_Key: ACTION_DRAG_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086678092947456
+    m_Key: ACTION_DANCE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64086768543113216
+    m_Key: ACTION_DANCE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087092846698496
+    m_Key: ACTION_DANCE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087094838992896
+    m_Key: ACTION_DANCE_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087097229746176
+    m_Key: ACTION_DANCE_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087099624693760
+    m_Key: ACTION_DANCE_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087382320783360
+    m_Key: ACTION_WINDOWSIT_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087412918231040
+    m_Key: ACTION_WINDOWSIT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087414772113408
+    m_Key: ACTION_WINDOWSIT_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087416336588800
+    m_Key: ACTION_WINDOWSIT_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087417628434432
+    m_Key: ACTION_WINDOWSIT_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64087418794450944
+    m_Key: ACTION_WINDOWSIT_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088019687219200
+    m_Key: ACTION_SITTING_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088020911955968
+    m_Key: ACTION_SITTING_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088021570461696
+    m_Key: ACTION_SITTING_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088022228967424
+    m_Key: ACTION_SITTING_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088022841335808
+    m_Key: ACTION_SITTING_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64088023474675712
+    m_Key: ACTION_SITTING_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485837908254720
+    m_Key: ITEM_SAKURA_HALO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485839854411776
+    m_Key: ITEM_RETRO_HALO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64485841104314368
+    m_Key: OPTION_EVENT_MESSAGES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486049066295296
+    m_Key: OPTION_DANCE_TRANSITIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486115202080768
+    m_Key: OPTION_DANCE_TRANSITIONS_CHANGE_TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486115827032064
+    m_Key: OPTION_DANCE_TRANSITIONS_TRANSITION_TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486267505647616
+    m_Key: OPTION_START_WITH_SYSTEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486353119780864
+    m_Key: INPUT_AI_SYSTEM_PROMPT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64486586960617472
+    m_Key: BUTTON_DELETE_CHAT_HISTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973429180833792
+    m_Key: CAT_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973430707560448
+    m_Key: CAT_AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973432238481408
+    m_Key: CAT_MOVEMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973433303834624
+    m_Key: CAT_APPEARANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973434356604928
+    m_Key: CAT_DANCING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973435300323328
+    m_Key: CAT_WINDOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973436151767040
+    m_Key: CAT_DESIGN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973438601240576
+    m_Key: CAT_ALARM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973439893086208
+    m_Key: CAT_AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973441449172992
+    m_Key: CAT_DEBUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70973443252723712
+    m_Key: CAT_STEAMDLCS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70999952109641728
+    m_Key: TIP_DISCORD_RPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71002484403904512
+    m_Key: TIP_IDLESWITCHTIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71003365492957184
+    m_Key: TIP_IDLESWITCHANIM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71004038695526400
+    m_Key: TIP_BODY_TRACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71004940831596544
+    m_Key: TIP_HAND_TRACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71005229898833920
+    m_Key: TIP_HUSBANDO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71009590645399552
+    m_Key: TIP_DANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71010482257960960
+    m_Key: TIP_DANCE_TRS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71011000183201792
+    m_Key: TIP_DANCE_THRS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470095960940544
+    m_Key: DAY_MON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470097592524800
+    m_Key: DAY_TUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470098959867904
+    m_Key: DAY_WED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470100155244544
+    m_Key: DAY_THU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470101493227520
+    m_Key: DAY_FRI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470107461722112
+    m_Key: DAY_SAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470109877641216
+    m_Key: DAY_SUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71470682064592896
+    m_Key: TOL_ALARM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751708213026816
+    m_Key: ADD_ALARM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751796721229824
+    m_Key: ALARM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751947594539008
+    m_Key: MON.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751949909794816
+    m_Key: TUE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751951579127808
+    m_Key: WED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751953068105728
+    m_Key: THU.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751954464808960
+    m_Key: FRI.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751955819569152
+    m_Key: SAT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71751956985585664
+    m_Key: SUN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752554812317696
+    m_Key: WIN_SIT_Y
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752669165821952
+    m_Key: ITEM_ERROR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71752800506257408
+    m_Key: MEM_OPTI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74066854415474688
+    m_Key: MC_ENTITY_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100562044428288
+    m_Key: MC_DAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100573499072512
+    m_Key: MC_NIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100702608138240
+    m_Key: MC_LOWHP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74100749752115200
+    m_Key: MC_LOWHUNGER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74137876288282624
+    m_Key: TIP_MC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149153014325248
+    m_Key: MC_DEATH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149154457165824
+    m_Key: MC_RAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149155774177280
+    m_Key: MC_DROWNING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149157028274176
+    m_Key: MC_SLEEP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74149158324314112
+    m_Key: MC_CRAFTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74429045333336064
+    m_Key: TIP_D_SYNC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74429046658736128
+    m_Key: TIP_D_LOCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473517958078464
+    m_Key: MC_EAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473519275089920
+    m_Key: MC_KILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74473520520798208
+    m_Key: MC_BIOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494164503404544
+    m_Key: MC_EAT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494166046908416
+    m_Key: MC_EAT_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494167372308480
+    m_Key: MC_EAT_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494450139701248
+    m_Key: MC_BIOME_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494451326689280
+    m_Key: MC_BIOME_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74494452492705792
+    m_Key: MC_BIOME_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495033496084480
+    m_Key: MC_KILL_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495035303829504
+    m_Key: MC_KILL_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495036486623232
+    m_Key: MC_KILL_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495491606355968
+    m_Key: MC_CRAFTING_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495493175025664
+    m_Key: MC_CRAFTING_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74495494441705472
+    m_Key: MC_CRAFTING_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496053102026752
+    m_Key: MC_RAIN_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496054406455296
+    m_Key: MC_RAIN_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496454551445504
+    m_Key: MC_ENTITY_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496467176300544
+    m_Key: MC_ENTITY_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496470120701952
+    m_Key: MC_ENTITY_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74496470980534272
+    m_Key: MC_ENTITY_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497067465089024
+    m_Key: MC_SLEEP_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497074909978624
+    m_Key: MC_SLEEP_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497077372035072
+    m_Key: MC_SLEEP_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497599856484352
+    m_Key: MC_DEATH_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497601844584448
+    m_Key: MC_DEATH_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74497603958513664
+    m_Key: MC_DEATH_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498198488522752
+    m_Key: MC_DAY_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498199964917760
+    m_Key: MC_DAY_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74498200799584256
+    m_Key: MC_DAY_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499007469101056
+    m_Key: MC_LOWHP_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499008760946688
+    m_Key: MC_LOWHP_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499009935351808
+    m_Key: MC_LOWHP_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499492481638400
+    m_Key: MC_NIGHT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499493685403648
+    m_Key: MC_NIGHT_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74499494822060032
+    m_Key: MC_NIGHT_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500969312854016
+    m_Key: MC_DAY_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500970667614208
+    m_Key: MC_DAY_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500972060123136
+    m_Key: MC_DAY_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74500973540712448
+    m_Key: MC_DAY_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501548428795904
+    m_Key: MC_LOWHUNGER_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501549779361792
+    m_Key: MC_LOWHUNGER_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501550978932736
+    m_Key: MC_LOWHUNGER_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74501552463716352
+    m_Key: MC_LOWHUNGER_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780049190985728
+    m_Key: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780051216834560
+    m_Key: MC_INTEGRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780051929866240
+    m_Key: DLC_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74780306805137408
+    m_Key: MC_INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533177715499008
+    m_Key: CAT_TIMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533281222533120
+    m_Key: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533283390988288
+    m_Key: STOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78533389917921280
+    m_Key: TOL_TIMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78900503145127936
+    m_Key: RANDOM_AVATAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942061286432768
+    m_Key: MC_INF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942197488066560
+    m_Key: MC_INT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942349086990336
+    m_Key: MC_MSG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942769763098624
+    m_Key: MC_LOCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78942879666446336
+    m_Key: BUY_ME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154219043484319744
+    m_Key: 'FOOD_INFO
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943100634963968
+    m_Key: FOOD_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943336845582336
+    m_Key: FOOD_LOCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78943700919558144
+    m_Key: ADD_TIMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154319530762186752
+    m_Key: MODEL_STORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154644154179895296
+    m_Key: DOWNLOAD_BUTTON
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5634504711162560726
+  references:
+    version: 2
+    RefIds:
+    - rid: 5634504711162560726
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744142464445

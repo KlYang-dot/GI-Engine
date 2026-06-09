@@ -1,0 +1,4 @@
+<linker>
+    <assembly fullname="System.Windows.Forms" preserve="nothing"/>
+    <assembly fullname="System.Drawing" preserve="nothing"/>
+</linker>
