@@ -75,11 +75,9 @@ GI Engine 是基于 [Mate-Engine](https://github.com/shinyflvre/Mate-Engine) 深
 ## 从源码构建
 
 1. **克隆仓库**：
-   ```bash
-   git clone [https://github.com/KlYang-dot/GI-Engine.git](https://github.com/KlYang-dot/GI-Engine.git)
-   cd GI-Engine
+  ` git clone [https://github.com/KlYang-dot/GI-Engine.git](https://github.com/KlYang-dot/GI-Engine.git)
+   cd GI-Engine`
 
-```
 
 2. **环境要求**：推荐使用 Unity 2022.3 LTS 或更高版本。
 3. **打开项目**：在 Unity Hub 中添加项目路径。
