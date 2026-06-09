@@ -124,6 +124,6 @@ GI Engine 基于 **MIT License** 开源。详见 [LICENSE.md](LICENSE.md) 文件
 
 - 提交 Issue：[GitHub Issues](https://github.com/KlYang-dot/GI-Engine/issues)
 
-
+**本项目中使用了来自 《原神》（miHoYo/HoYoverse）的模型、字体等美术资源。这些资源仅用于非商业二次创作，版权归米哈游所有。请勿将上述资源用于商业用途或单独提取分发。**
 ---
 
