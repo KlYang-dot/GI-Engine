@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![GitHub release](https://img.shields.io/github/v/release/KlYang-dot/GI-Engine)](https://github.com/KlYang-dot/GI-Engine/releases)
+
 [简体中文版本](README.md)
 
 > **GI Engine: More than just a desktop mascot.**
