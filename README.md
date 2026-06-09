@@ -7,7 +7,6 @@
 # GI Engine Project
 [![GitHub release](https://img.shields.io/github/v/release/KlYang-dot/GI-Engine?logo=github)](https://github.com/KlYang-dot/GI-Engine/releases)
 [![Stars](https://img.shields.io/github/stars/KlYang-dot/GI-Engine?style=flat-square&logo=github)](https://github.com/KlYang-dot/GI-Engine/stargazers)
-[![License](https://img.shields.io/github/license/KlYang-dot/GI-Engine?style=flat-square)](LICENSE.md)
 
 > **GI Engine：不仅仅是桌面宠物。**
 > 一款面向中文用户的轻量级桌面虚拟伙伴引擎，支持 VRM 角色、模型商店、原神模型优化渲染及丰富扩展功能。
@@ -107,6 +106,7 @@ GI Engine 是基于 [Mate-Engine](https://github.com/shinyflvre/Mate-Engine) 深
 **Q: 是否支持将模型更换为《原神》以外的角色？** A: 完全支持。GI Engine 兼容标准的 VRM 0.x / 1.x 格式。您可以从 VRoid Hub、Sketchfab 或其他 VRM 资源平台下载模型，并直接拖拽至程序窗口使用。
 **Q: 为什么运行后占用的内存较高？** A: 考虑到渲染质量与物理模拟的实时性，引擎会预加载部分纹理资源。您可以前往“设置”面板中开启“低内存模式”或降低渲染质量，以适配配置较低的设备。
 **Q: 是否兼容MateEngine插件？** A: 他写的插件部分一点没动，理论完全兼容，改的主要是调用、功能、渲染效果类的
+**Q: 我是否可以二改GI Engine** A: 可以，但是你要忍受我拿AI写的代码，还有原项目的shi山，我写的部分注释也添加了不少，可以试试
 
 ---
 
