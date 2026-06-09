@@ -34,8 +34,11 @@ GI Engine 是基于 [Mate-Engine](https://github.com/shinyflvre/Mate-Engine) 深
 ---
 
 ## 预览
+<img width="797" height="823" alt="image" src="https://github.com/user-attachments/assets/f81cdb8c-a321-4ee9-bb5d-cdb424c03631" />
 
 <img width="403" height="626" alt="image" src="https://github.com/user-attachments/assets/0f0c5a2c-5abf-418d-bed4-86c49fce0619" />
+<img width="869" height="858" alt="image" src="https://github.com/user-attachments/assets/9fa1ab55-3e3d-47f3-bcaa-3680d28054fb" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/a8259b95-694c-4630-9d78-b2eb1f7c8ef0" />
 
 
 ---
